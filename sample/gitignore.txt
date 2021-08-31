@@ -8,4 +8,4 @@
 /htdocs/style/css
 /htdocs/index.html
 
-package-lock.json
+

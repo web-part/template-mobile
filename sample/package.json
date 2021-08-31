@@ -12,7 +12,7 @@
   "email": "mictydeng@qq.com",
   "license": "MIT",
   "devDependencies": {
-      "@webpart/cli": "^2.1.1",
+      "@webpart/cli": "^2.2.3",
       "@webpart/proxy": "^1.0.0"
   },
   "dependencies": {
