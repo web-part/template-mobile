@@ -1,12 +1,9 @@
 {
     "name": "@webpart/template-mobile",
-    "version": "2.0.5",
+    "version": "2.0.7",
     "description": "用于创建针对移动端的网站模板。",
     "scripts": {},
-    "keywords": [
-        "移动端模板",
-        "mobile"
-    ],
+    "keywords": ["移动端模板", "mobile"],
     "author": "micty",
     "email": "mictydeng@qq.com",
     "license": "MIT",

@@ -3,9 +3,9 @@
   "version": "1.0.0",
   "description": "用于创建针对移动端的标准模式的网站模板。",
   "scripts": {
+    "server": "webpart server",
     "watch": "webpart watch",
-    "build": "webpart build",
-    "server": "webpart server"
+    "build": "webpart build"
   },
   "keywords": [],
   "author": "micty",

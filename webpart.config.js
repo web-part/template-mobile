@@ -22,7 +22,6 @@ module.exports = {
             },
             'watch': function (website) {
                 console.log('watch.done!'.green);
-                console.log(process.pid);
             },
             'build': function (website) {
                 console.log('build.done!'.green);
